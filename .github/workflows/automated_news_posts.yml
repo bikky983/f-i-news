@@ -1,6 +1,6 @@
 name: Automated Nepali News Posts
 
-on:
+on:off
   schedule:
     # Run at 10:00 AM Nepal Time (04:15 UTC) - Morning news
     - cron: '15 4 * * *'
